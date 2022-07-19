@@ -1,7 +1,8 @@
 # iOS-projects
 dairy for my iOS development learning process
 
-DICEE
+### **DICEE**
+
 The very first application I designed
 Basically rolling the dice.. nothing fancy.. but cute.. and useful.. I guess..
 
